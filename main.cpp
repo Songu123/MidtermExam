@@ -13,7 +13,6 @@ void hamNhap(int arr[], int size );
 bool isPrime(int n);
 void tongSoNguyenTo(int arr[], int size);
 void swap(int &x, int &y);
-
 void sort(int arr[], int size, int order);
 void phanTuXuatHienNhieu(int arr[], int size);
 
